@@ -7,7 +7,7 @@
 
 ![Web Developer](https://i.ibb.co/pyyJLj7/3d-render-code-testing-functional-test-usability.jpg)
 
-Hi there! 👋 I’m Sharif Mahamud, a passionate web developer who creates dynamic and responsive web applications. With expertise in both front-end and back-end technologies, I strive to build seamless and engaging user experiences.
+A web developer is a professional responsible for designing, coding, and maintaining websites and web applications. They handle both front-end development, which involves creating user interfaces and ensuring responsiveness, and back-end development, which includes server-side logic, database management, and API integration. Web developers work with languages like HTML, CSS, JavaScript, and frameworks such as React, or Vue for front-end, and Node.js for back-end. Their role is crucial in building user-friendly, efficient, and secure websites, ensuring optimal performance and seamless user experiences across various devices and platforms.
 
 ### Languages and Tools:
 
