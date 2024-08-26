@@ -40,9 +40,24 @@ A web developer is a professional responsible for designing, coding, and maintai
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharif57)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there! I'm Sharif Mahamud 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true)  
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h2>Languages I Use</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharif57" alt="Top Languages" style="max-width: 100%; height: auto;">
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h2>My GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
+  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sharif57/contributions?format=svg&private=true)  
 
