@@ -48,7 +48,7 @@ A web developer is a professional responsible for designing, coding, and maintai
   
   <h2>My GitHub Stats</h2>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true) reademe file flex
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sharif57)  
   
