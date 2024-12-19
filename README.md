@@ -46,7 +46,7 @@ A web developer is a professional responsible for designing, coding, and maintai
 
 - 🔭 I’m currently working on School Project 
 - 🌱 I’m currently learning back-end 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
 ## Connect with me:
