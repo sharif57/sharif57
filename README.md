@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi there 👋, my name is Sharif Mahamud</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer </h3>
 
 <br />
 
