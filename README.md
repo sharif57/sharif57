@@ -7,7 +7,6 @@
 
 
 ![Web Developer](https://i.ibb.co.com/pjBjbwCP/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)
-![Web Developer](https://i.ibb.co.com/NgtJp079/1765907234391.jpg)
 
 A web developer is a professional responsible for designing, coding, and maintaining websites and web applications. They handle both front-end development, which involves creating user interfaces and ensuring responsiveness, and back-end development, which includes server-side logic, database management, and API integration. Web developers work with languages like HTML, CSS, JavaScript, and frameworks such as React, or Vue for front-end, and Node.js for back-end. Their role is crucial in building user-friendly, efficient, and secure websites, ensuring optimal performance and seamless user experiences across various devices and platforms.
 
