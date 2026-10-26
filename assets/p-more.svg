@@ -1,0 +1,9 @@
+<svg width="320" height="204" viewBox="0 0 320 204" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="318" height="202" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="318" height="202" rx="12" fill="none" stroke="#58a6ff" stroke-opacity="0.6" stroke-dasharray="7 6">
+<animate attributeName="stroke-dashoffset" from="0" to="-26" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="30" y="84" font-size="14" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> gh repo list sharif57</tspan></text>
+<text x="30" y="110" font-size="13" fill="#8b949e" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace">more projects on GitHub</text>
+<text x="30" y="142" font-size="15" font-weight="600" fill="#58a6ff" font-family="'Segoe UI','Inter',-apple-system,Arial,sans-serif">Browse all repositories
+<tspan>  </tspan><tspan>&#8594;<animate attributeName="dx" values="0;6;0" dur="1.4s" repeatCount="indefinite"/></tspan></text>
+</svg>

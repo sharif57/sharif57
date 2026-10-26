@@ -1,0 +1,5 @@
+<svg width="1000" height="46" viewBox="0 0 1000 46" xmlns="http://www.w3.org/2000/svg">
+<text x="2" y="28" font-size="19" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" xml:space="preserve"><tspan fill="#3fb950">sharif@dev</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#e6edf3">$ ./contact.sh </tspan><tspan fill="#58a6ff">▌<animate attributeName="fill" values="#58a6ff;#0d1117" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+<rect x="0" y="40" width="1000" height="1" fill="#30363d"/>
+<rect x="0" y="39.5" width="90" height="2" rx="1" fill="#58a6ff"><animate attributeName="x" values="0;910;0" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
