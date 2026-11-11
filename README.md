@@ -6,24 +6,15 @@
   <a href="https://github.com/sharif57?tab=repositories"><img src="https://img.shields.io/github/stars/sharif57?style=flat-square&logo=github&color=58a6ff&labelColor=161b22" alt="Stars"></a>
 </p>
 
-<img src="assets/h-about.svg" width="100%" alt="cat about.md">
+<img src="assets/h-about.svg" width="100%" alt="About">
 
 I build production web apps end to end: responsive **Next.js** frontends, **Node.js / Express** APIs, **MongoDB** and **Prisma** data layers, and the **Linux** server they run on. I deploy my own work, so what I ship stays up.
 
-```ts
-const sharif = {
-  role: "Full Stack Developer",
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "MongoDB", "Prisma", "JWT"],
-  deploy: ["Linux", "PM2", "Nginx"],
-  openTo: ["GitHub collaboration", "Client projects"],
-  askMeAbout: "Web development",
-};
-```
+<img src="assets/about.svg" width="100%" alt="Frontend, backend and deployment">
 
-<img src="assets/h-projects.svg" width="100%" alt="ls projects/">
+<img src="assets/h-projects.svg" width="100%" alt="Selected work">
 
-<a href="https://github.com/sharif57?tab=repositories"><img src="assets/project-featured.svg" alt="School Management System, currently building" width="100%"></a>
+<a href="https://github.com/sharif57?tab=repositories"><img src="assets/project-featured.svg" alt="School Management System, in progress" width="100%"></a>
 
 <table>
   <tr>
@@ -34,27 +25,24 @@ const sharif = {
   <tr>
     <td width="33%"><a href="https://github.com/sharif57?tab=repositories"><img src="assets/p-ebakx.svg" alt="ebakx.com" width="100%"></a></td>
     <td width="33%"><a href="https://github.com/sharif57?tab=repositories"><img src="assets/p-coach.svg" alt="Find Me a Coach" width="100%"></a></td>
-    <td width="33%"><a href="https://github.com/sharif57?tab=repositories"><img src="assets/p-more.svg" alt="Browse all repositories" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/sharif57?tab=repositories"><img src="assets/p-more.svg" alt="View all repositories" width="100%"></a></td>
   </tr>
 </table>
 
-<img src="assets/h-stack.svg" width="100%" alt="cat stack.json">
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack">
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack">
+<img src="assets/stack.svg" width="100%" alt="Frontend, backend, deploy and tools">
 
-<img src="assets/pipeline.svg" width="100%" alt="Deploy pipeline: Next.js, Express, MongoDB, git push, Linux + PM2, Nginx, Live">
+<img src="assets/workflow.svg" width="100%" alt="Workflow: build, version, deploy, serve">
 
-<img src="assets/h-stats.svg" width="100%" alt="git log --stat">
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharif57&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharif57&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharif57&layout=compact&theme=github_dark&hide_border=true&border_radius=12" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharif57&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharif57&bg_color=0d1117&color=58a6ff&line=58a6ff&point_color=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution graph">
+  <img src="https://streak-stats.demolab.com/?user=sharif57&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub streak">
 </p>
 
 <picture>
@@ -63,13 +51,15 @@ const sharif = {
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/sharif57/sharif57/output/github-snake.svg" width="100%">
 </picture>
 
-<img src="assets/h-contact.svg" width="100%" alt="./contact.sh">
+<img src="assets/h-contact.svg" width="100%" alt="Get in touch">
+
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="assets/cta.svg" width="100%" alt="Have a project in mind? Get in touch"></a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharif-mahamud"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
-  <a href="https://github.com/sharif57"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>
-  <a href="https://www.facebook.com/sharif.mahamud.5682"><img src="assets/btn-facebook.svg" alt="Facebook" height="46"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
+  <a href="https://www.linkedin.com/in/sharif-mahamud"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
+  <a href="https://github.com/sharif57"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.facebook.com/sharif.mahamud.5682"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="thanks for visiting">
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting">

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img">
+<defs><linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12203f"/><stop offset="1" stop-color="#2a1b52"/></linearGradient><linearGradient id="cs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient><linearGradient id="bt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="148" rx="20" fill="url(#cb)" stroke="url(#cs)" stroke-opacity=".7" stroke-width="1.5"/>
+<circle cx="930" cy="20" r="90" fill="#a371f7" fill-opacity=".1"/><circle cx="70" cy="150" r="80" fill="#58a6ff" fill-opacity=".08"/>
+<text x="48" y="64" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="30" font-weight="800" fill="#ffffff">Have a project in mind?</text>
+<text x="48" y="96" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15.5" fill="#b8c4da">I am open to client projects and GitHub collaboration.</text>
+<text x="48" y="118" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="15.5" fill="#b8c4da">Let us build something reliable together.</text>
+<rect x="760" y="52" width="200" height="46" rx="23" fill="url(#bt)"/>
+<text x="788" y="81" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">Get in touch</text>
+<path d="M908 75h16m-6-6 6 6-6 6" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
