@@ -8,6 +8,8 @@
 
 <img src="assets/h-about.svg" width="100%" alt="cat about.md">
 
+I build production web apps end to end: responsive **Next.js** frontends, **Node.js / Express** APIs, **MongoDB** and **Prisma** data layers, and the **Linux** server they run on. I deploy my own work, so what I ship stays up.
+
 ```ts
 const sharif = {
   role: "Full Stack Developer",
@@ -18,8 +20,6 @@ const sharif = {
   askMeAbout: "Web development",
 };
 ```
-
-I build production web apps end to end: responsive Next.js frontends, Node.js / Express APIs, MongoDB and Prisma data layers, and the Linux server they run on. I deploy my own work, so what I ship stays up.
 
 <img src="assets/h-projects.svg" width="100%" alt="ls projects/">
 
@@ -66,12 +66,10 @@ I build production web apps end to end: responsive Next.js frontends, Node.js / 
 <img src="assets/h-contact.svg" width="100%" alt="./contact.sh">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharif-mahamud"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
-  <a href="https://github.com/sharif57"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.facebook.com/sharif.mahamud.5682"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sharif-mahamud"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
+  <a href="https://github.com/sharif57"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>
+  <a href="https://www.facebook.com/sharif.mahamud.5682"><img src="assets/btn-facebook.svg" alt="Facebook" height="46"></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=8B949E&center=true&vCenter=true&width=420&lines=//+thanks+for+visiting;console.log('Let%27s+build+something')" alt="Footer">
-</p>
+<img src="assets/footer.svg" width="100%" alt="thanks for visiting">
